@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a801b81f-1b1d-47f7-b007-b30bf8eb9af5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="a801b81f-1b1d-47f7-b007-b30bf8eb9af5" name="Changes" comment="TidyNumber completed">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,63 +62,8 @@
       <recent name="kswkev.codewars.kyu7.TidyNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Tidy_Number_Tests (2)">
-    <configuration name="Tidy_Number_Tests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kswkev.codewars.ryu7.TidyNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="kswkev.codewars.ryu7.TidyNumber" />
-      <option name="MAIN_CLASS_NAME" value="kswkev.codewars.ryu7.TidyNumber.Tidy_Number_Tests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tidy_Number_Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWars" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Tidy_Number_Tests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tidy_Number_Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kswkev.codewars.kyu7.TidyNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="kswkev.codewars.kyu7.TidyNumber" />
-      <option name="MAIN_CLASS_NAME" value="kswkev.codewars.kyu7.TidyNumber.Tidy_Number_Tests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tidy_Number_Tests.Check_Small_Values" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kswkev.codewars.kyu7.TidyNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="kswkev.codewars.kyu7.TidyNumber" />
-      <option name="MAIN_CLASS_NAME" value="kswkev.codewars.kyu7.TidyNumber.Tidy_Number_Tests" />
-      <option name="METHOD_NAME" value="Check_Small_Values" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SolutionTest.additionalNumberTests">
+    <configuration name="All in CodeWars" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="CodeWars" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -136,19 +73,116 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionTest.additionalNumberTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kswkev.codewars.kyu7.DecimalTimeConversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kswkev.codewars.kyu7.DecimalTimeConversion" />
+      <option name="MAIN_CLASS_NAME" value="kswkev.codewars.kyu7.DecimalTimeConversion.SolutionTest" />
+      <option name="METHOD_NAME" value="additionalNumberTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.additionalStringTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kswkev.codewars.kyu7.DecimalTimeConversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kswkev.codewars.kyu7.DecimalTimeConversion" />
+      <option name="MAIN_CLASS_NAME" value="kswkev.codewars.kyu7.DecimalTimeConversion.SolutionTest" />
+      <option name="METHOD_NAME" value="additionalStringTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.basicNumberTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kswkev.codewars.kyu7.DecimalTimeConversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kswkev.codewars.kyu7.DecimalTimeConversion" />
+      <option name="MAIN_CLASS_NAME" value="kswkev.codewars.kyu7.DecimalTimeConversion.SolutionTest" />
+      <option name="METHOD_NAME" value="basicNumberTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.basicStringTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kswkev.codewars.kyu7.DecimalTimeConversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kswkev.codewars.kyu7.DecimalTimeConversion" />
+      <option name="MAIN_CLASS_NAME" value="kswkev.codewars.kyu7.DecimalTimeConversion.SolutionTest" />
+      <option name="METHOD_NAME" value="basicStringTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.basicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kswkev.codewars.kyu7.DecimalTimeConversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kswkev.codewars.kyu7.DecimalTimeConversion" />
+      <option name="MAIN_CLASS_NAME" value="kswkev.codewars.kyu7.DecimalTimeConversion.SolutionTest" />
+      <option name="METHOD_NAME" value="basicTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tidy_Number_Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kswkev.codewars.kyu7.TidyNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kswkev.codewars.kyu7.TidyNumber" />
+      <option name="MAIN_CLASS_NAME" value="kswkev.codewars.kyu7.TidyNumber.Tidy_Number_Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.Unnamed" />
-      <item itemvalue="JUnit.Tidy_Number_Tests" />
-      <item itemvalue="JUnit.Tidy_Number_Tests (1)" />
-      <item itemvalue="JUnit.Tidy_Number_Tests (2)" />
-      <item itemvalue="JUnit.Tidy_Number_Tests.Check_Small_Values" />
+      <item itemvalue="JUnit.All in CodeWars" />
+      <item itemvalue="JUnit.SolutionTest.additionalNumberTests" />
+      <item itemvalue="JUnit.SolutionTest.additionalStringTests" />
+      <item itemvalue="JUnit.SolutionTest.basicNumberTests" />
+      <item itemvalue="JUnit.SolutionTest.basicStringTests" />
+      <item itemvalue="JUnit.SolutionTest.basicTests" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Tidy_Number_Tests (2)" />
-        <item itemvalue="JUnit.Tidy_Number_Tests.Check_Small_Values" />
-        <item itemvalue="JUnit.Tidy_Number_Tests (1)" />
-        <item itemvalue="JUnit.Tidy_Number_Tests" />
+        <item itemvalue="JUnit.SolutionTest.additionalNumberTests" />
+        <item itemvalue="JUnit.SolutionTest.basicNumberTests" />
+        <item itemvalue="JUnit.SolutionTest.basicTests" />
+        <item itemvalue="JUnit.SolutionTest.basicStringTests" />
+        <item itemvalue="JUnit.SolutionTest.additionalStringTests" />
       </list>
     </recent_temporary>
   </component>
@@ -161,15 +195,38 @@
       <option name="presentableId" value="Default" />
       <updated>1691344681688</updated>
     </task>
+    <task id="LOCAL-00001" summary="TidyNumber completed">
+      <created>1691353786807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691353786807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TidyNumber completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="TidyNumber completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kswkev/codewars/kyu7/TidyNumber/Solution.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="5" />
+          <line>27</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
